@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashidhar5716, Kommagoni Shashidher
-- 👀 I’m interested in Machine Learning Models
-- 🌱 I’m currently learning the concepts of Machine Learning from 360digitmg
+- 👀 I’m passionate about Machine Learning Models
+- 🌱 I’m training the concepts of Machine Learning from 360digitmg
 - 💞️ I’m looking to collaborate with the organization to Enhance them with my Skills 
 - 📫 How to reach me , you can contact my email: shashidhar5716@gmail.com
 
